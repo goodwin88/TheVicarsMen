@@ -7,33 +7,41 @@ echo "" >> "$MEGA_FILE"
 echo "> ⚠️ This file is auto-generated. Edit the individual files in each collection instead." >> "$MEGA_FILE"
 echo "" >> "$MEGA_FILE"
 
-# Loop over each numbered directory at the root
-for DIR in [0-9][0-9]-*/; do
+# Loop over each numbered directory in order
+for DIR in $(ls -d [0-9][0-9]-*/ | sort); do
   DIR=${DIR%/}  # remove trailing slash
-  COLLECTION_NAME=$(basename "$DIR" | cut -d'-' -f2) # e.g., fairy-tales
-  OUT="$DIR/00-ALL-${COLLECTION_NAME^^}.md" # per-collection file
+  COLLECTION_NUM=$(basename "$DIR" | cut -d'-' -f1)
+  COLLECTION_NAME=$(basename "$DIR" | cut -d'-' -f2)
+  COLLECTION_HEADER="${COLLECTION_NAME^}" # Capitalize first letter
 
-  echo "# ${COLLECTION_NAME^} — Complete Text" > "$OUT"
+  # Per-collection compiled file
+  OUT="$DIR/00-ALL-${COLLECTION_NAME^^}.md" # all caps for filename
+
+  echo "# ${COLLECTION_HEADER} — Complete Text" > "$OUT"
   echo "" >> "$OUT"
   echo "> ⚠️ This file is auto-generated. Edit the individual files instead." >> "$OUT"
   echo "" >> "$OUT"
 
-  # Loop over numbered .md files inside, sorted
-  for FILE in "$DIR"/[0-9][0-9]-*.md; do
-    # Skip the output file if it exists from previous runs
+  # Loop over numbered markdown files in order
+  for FILE in $(ls "$DIR"/[0-9][0-9]-*.md 2>/dev/null | sort); do
+    # Skip output file itself
     [[ "$FILE" == "$OUT" ]] && continue
 
+    FILE_NAME=$(basename "$FILE" .md)
+    STORY_TITLE=$(echo "$FILE_NAME" | cut -d'-' -f2- | sed -E 's/-/ /g')
+    
+    # Add story header in per-collection file
     echo "" >> "$OUT"
-    echo "---" >> "$OUT"
+    echo "## ${STORY_TITLE^}" >> "$OUT"
     echo "" >> "$OUT"
     cat "$FILE" >> "$OUT"
   done
 
-  echo "Compiled $OUT"
+  echo "Compiled collection file: $OUT"
 
-  # Append this collection to mega file
+  # Add to mega file with clear collection header
   echo "" >> "$MEGA_FILE"
-  echo "## ${COLLECTION_NAME^} Collection" >> "$MEGA_FILE"
+  echo "## Collection: ${COLLECTION_HEADER}" >> "$MEGA_FILE"
   echo "" >> "$MEGA_FILE"
   cat "$OUT" >> "$MEGA_FILE"
   echo "" >> "$MEGA_FILE"
