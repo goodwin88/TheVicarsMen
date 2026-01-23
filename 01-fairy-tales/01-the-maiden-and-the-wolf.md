@@ -1,4 +1,4 @@
-The Maiden and The Wolf
+THE MAIDEN AND THE WOLF
 
 1
 
