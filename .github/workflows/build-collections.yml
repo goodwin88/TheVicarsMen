@@ -1,0 +1,24 @@
+name: Build All Collections
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+      - "scripts/build-collections.sh"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build collections
+        run: bash scripts/build-collections.sh
+
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "**/00-ALL-*.md"
+          message: "Auto-build compiled collections and mega file"
