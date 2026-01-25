@@ -1062,3 +1062,288 @@ Jones grunted and pulled his hat from his head.
 "Franklin works by the water, dear."
 
 And life went on accordingly. Eventually. Predictably. These arcs are obvious and gracefully simple. Timbo's little schemes get out of hand. He seems to think he's clever and a survivor, but it's only because Jones has always been there to save his ass. He thinks he has it all under control. Wobbles is an idiot, but a loyal follower. Glitterface is brutal and cold-blooded. He strings Jones along, letting him dig his grave a little deeper and using him in the meanwhile to advance his own agenda, eventually turning on him. He finds a way to coerce Timbo into getting Jones to throw his title fight. Perhaps it's the girl. Perhaps it's their mother. There's another heist. This time without Jones. Jones wants nothing more to do with Timbo's "business" ventures. It goes badly, perhaps Wobbles screws up. Somebody is shot but not killed. The threads get only slightly fuzzy after that. But you know the rest, I'm sure. Eventually it all reduces to Jones facing down an oncoming, obliterating, last wide fist to his broken face and deciding to embrace it or not. These things are all about choosing to throw the fight. You enter into and leave this world alone.
+## Price of admission
+
+PRICE OF ADMISSION
+
+In the labyrinth there is the Minotaur.
+
+In yearly tribute it is fed virgins.
+
+Inside they go and lost they get,
+
+until the beast finds them and eats them.
+
+Grendel came to the hall, night after night
+
+and howled outside for the strongest among them.
+
+Each went out, the best and the bravest, and he destroyed them.
+
+Beowulf shows up and rips the creature's arm off.
+
+He beats Grendel with his own bloody stump and drives him away.
+
+Then he nails it over the doorway: "Abandon all hope, ye that enter
+
+for 'ere thar be dragons."
+
+A traveller in winter sees a snake dying by the roadside.
+
+"I will save you. Come with me and I will care for you."
+
+He tucks the creature into his clothing to keep it warm.
+
+It soon writhes with renewed vigor and fatally bites him.
+
+"Why have you done this? I saved you!"
+
+"Fool! You knew I was a snake when you took me in."
+
+The third little pig built his house of bricks, with a sturdy, stout door.
+
+He lived to see that wolf in the soup.
+
+The wolf dropped down the chimney like Santa Claus, right into the pot.
+
+And the piggy made hisself a bully stew, alright.
+
+Here endeth the lesson.
+
+vampires at the threshold, awaiting invitation
+
+no doors in Heaven
+## Tomorrow people
+
+TOMORROW PEOPLE
+
+Robot 12 was not designed for self-repair.
+ERNOA-53 could not see.
+The Praisefield Prototype had a limited vocabulary of 32 words.
+The last functioning ServiCorp A2000 estimated it had
+2 years, 4 months, 11 days, Q hours and %R seconds of
+reserve battery power left.
+"Big Dog" could only move via remote control
+by a live operator.
+The sole purpose of the RA-Model Five was to learn how
+to place ping-pong balls into Dixie cups.
+Children at play made use of the inert Zephyr Class HK SN#025118-94
+as an imaginary pony.
+And the watertight, shockproof, solar powered POLO
+had fallen down a deep, dark well.
+## The top
+
+THE TOP
+
+The lovers two spiraled about each other
+wobbling swiftly and spinning
+two blue stars painted upon a old wooden top
+flecked with red and white
+    oak worn smooth by the
+    hands of children on the floor
+    and in the sunlight
+this was a gift from grandpa
+    flowers in a jar
+    set in the open window
+    facing the ocean
+these were a gift from grandma
+linen and sand and
+grass and salt and
+bottleglass
+they both loved the ocean
+and in doing so, they
+never argued the rest of their
+tidal seaside days
+## Grass
+
+GRASS
+
+They skipped stones by the pond in the dark and to the sound of frogs, crickets, and their own easy banter. They walked along the train tracks by moonlight, one after the other, balanced on the same rail. And then again side by side on both rails, reaching out to touch their fingers together for balance.
+
+They sat on the old slat bridge, dangling their legs above the river and staring downstream to the glowing sky in the distance; the sky above the far, twinkling city.
+
+They rustled about in tall grasses and held each other as the wind swayed the leaves about them and echoed their whispers to each other and to eternity.
+
+They promised to always be friends. Would they spit and shake on it? Yes, and so they did. And they kissed, lightly on the lips and each eyelid. The way mothers kiss their children off to war; the way fathers kiss their daughters.
+
+"My train leaves in the morning, and I can see it's almost dawn."
+
+"Stay with me, please. Here in the tall grass, here where we are hidden and safe."
+
+"I have to go, and I am afraid."
+
+"But if you go, if this ends, we will forget. There will be work and family, age and death and change. And then this-"
+
+"Then this will seem like a dream half-remembered."
+
+"We can hide from the sun. We can pull this grass around us."
+
+"If I whisper to you that I love you..."
+
+"It will be all that I can hear."
+
+"And if I tangle with you in this secret field..."
+
+"It will become ours and all that I need."
+
+"And if I miss my train to stay here with you..."
+
+"Then you will give up the world and joys of your own making for this moment and the promise of this night."
+
+"You cannot promise me endless nights of green fields and caresses."
+
+"And you will not stay to find out."
+
+"I can stay until the dawn, but even now the light is changing."
+
+"Kiss me, quickly."
+## Music
+
+MUSIC
+
+"Joshua, turn that down. I can still hear it."
+
+Her son shot her a look of pure, cold, hard death in the rearview mirror and thumbed at the device. He slouched even further in the seat and bobbed his head, looking out the car window with resumed, majestic apathy.
+
+The volume may have decreased, but she couldn't tell. She could still hear the incessant thumping bassline and the scratchy angry lyrics that occasionally resolved into epithets.
+
+She dug her nails into her palms around the steering wheel. The veins on the back of her hands writhed.
+
+He had this thing lately where he would ride in the back like she was his driver. His gangly legs folded, just so, to dig his knees into her seat. When the chorus came in he would slap out the beat on his lap or drum his fingers against the glass.
+
+What drove her up the wall, however, weren't his antics. She had done her reading on parenting, spoken with her elders and her experienced "mom" friends. She knew well enough that she and her son were powerless before tyrants: hormones and the quests for self-identity, for pussy, and possibly for penis. She'd found all his pornography long ago.
+
+No, what was digging its hooks into her skin more than anything else was the simple fact that her son and child and flesh was abjectly tone deaf. The fact that he listened to snarling overpaid idiots encouraging him to rape and vice didn't bother her nearly as much as the fact that he couldn't keep pace with the rhythm and the rhyme scheme.
+
+It was only through force of will that she kept from swerving the car into a curb, reaching back and snatching off his headphones to shriek in full fury,
+
+"LISTEN! GOD DAMN IT... CAN'T YOU FUCKING LISTEN. IT'S NOT: uh UH UH these BITCHES ain't SHIT to me. THE EMPHASIS IS CLEAR AND PLAIN: uh UH uh THESE bitches ain't SHIT to me. IT IS NOT THAT HE WANTS YOU TO GET THE POINT THAT WOMEN ARE BITCHES, BUT THAT THESE FUCKING WOMEN IN FUCKING PARTICULAR ARE BITCHES. AND THERE'S A MELODY, A SIMPLE LITTLE MELODIC HOOK TO THE CHORUS. SIXTEEN NOTES. LIKE A GOD DAMNED NURSERY RHYME; WHY CAN'T YOU FOLLOW IT? WHY CAN'T YOU CARRY A TUNE? IT'S IN A MAJOR KEY FOR FUCK'S SAKE, IT'S NOT THAT COMPLICATED. AT ALL. I WAS FIRST CLARINET FOR MY ENTIRE FOUR YEARS AT STATE. I WON CONTESTS - CONTESTS. I FUCKED YOUR FATHER IN THE ORCHESTRA PIT FOR 'CARMEN' IN PARIS AND I BLEW THE CONDUCTOR ON THE SIDE. I FUCKING HELPED HIM WITH HIS ARRANGEMENTS - REWROTE THE PART FOR VIOLA FOR THE ARIA MYSELF, AND THE WEDDING MARCH FOR THAT ASSHOLE'S SECOND MARRIAGE. AND WHY. THE FUCK. ARE YOU. MY. CHILD."
+## Gravity
+
+GRAVITY
+
+Careening through dust and void
+hurtling and spinning all wobbly specks,
+mere specks, scattered like so much flour
+onto surface before the dough is kneaded.
+Per·func·to·ri·ly, out of habit
+
+And in the rhythm of the the baker working the dough,
+dashing out fingerfuls of flour onto wood worn smooth
+before knuckling into the soft mass
+leaning weight into it and rolling the shoulders
+Dusted just like that
+
+I watched the bread that would be crust form as though by magic.
+Protein chains forming and tangling and setting into shape
+to pass from one's hands into another
+as something made and crafted according to a pattern
+determined long ago.
+
+"What are you staring at? Pay the man."
+
+It was just pizza after all and
+we shared it by the window bundled into winter clothes
+with mittens removed and placed beside us,
+our mittens touching as though we were still holding hands.
+
+She knitted them as a matching set of four; his and hers, left and right.
+We ate and the sleet came down
+and the world was grey and spinning madly through the deep,
+the bare and dusty unknowable deep.
+
+Less than a blink - less and shorter than that -
+I was there with her then and we ate
+and the rock turned quickly beneath us;
+tumbling, clinging to us as we cling to it.
+
+That's gravity for you:
+everything reaches out for everything else.
+Stay and hold me.
+That's gravity, right? Don't go away.
+The sun does this. And the moon, and the dust.
+Of course the bigger you are, the more you pull.
+But everything pulls in some small way.
+
+Please stay here close to me, right?
+This thin little smear of life on the falling rock,
+like grease on our fingers, thinner than even that.
+And we cling to the earth and it clings to us.
+It's gravity saying come closer, closer still,
+all of you, gather around me and stay,
+why are we so scattered apart and flying apart?
+
+Please don't leave me alone.
+Rain on the glass, neon in the window, clouds overhead
+We eat together and the flesh works our little speck lives
+a little further along, a little slower, a little older, a little less efficiently.
+The errors accumulate, bones brittle a little more,
+the brain fogs a little bit.
+
+In 30 years, if we're lucky, we'll still be together,
+aching and pained on raining, sleeting days like this.
+Joints that long lost their elasticity will suffer the changing pressures
+and it will ache for us to be out on miserable rainy days.
+Winters will gnaw at us a little more intently.
+There'll be love there, still,
+mixed with simple familiarity
+and the shared experience
+and routine
+of two people who decided to hold hands until this rock spins itself out;
+routine slowly going erratic and slowing and wobbling
+like tops spinning out their energy and starting to shudder,
+skittering to a sudden, clattering stop;
+finally, endlessly calm and still.
+
+And as for the planet, in a little while yet, it too will be consumed by the Sun. It won't make any sense, but it won't matter either. Do you know how old Old will be by then? Yeah, sure, years from now, eons from now, supernova eventuality, but come on, nothing lasts forever. And so: gravity - gravity is something alone reaching for everything around itself saying, "Don't go, come here and stay with me until this is over." 60 years? 70, if you're lucky. Maybe 80, if you don't smoke. 90, if your genes are right - and even then the earth itself will die, eventually. Right out from under your feet.
+
+The Sun pulls at those passing comets, each so bright and in a hurry, and the Earth pulls at the slowly receding Moon, and the Moon pulls at the Earth. And the trash in the gutter pulls at Mars and that new planet nobody knew about and still has trouble accepting, even that thing way out there, it's pulling at you too, and your mother misses you and wishes you'd call more often and she's pulling at you too, to come close and closer still and to stay. All the things you don't know about, will never learn about, and will never do or see in your life, those things are still pulling at you too, in all directions, just as you're pulling at everything in return. And all those letters you meant to write or never sent, they pull at you, and you pull at them. That's gravity. Gravity is that ache for connection made real, and that's just the way it works. It's not magic - I don't make this stuff up.
+## Angel
+
+ANGEL
+
+In the dream, I am lurching homewards through the city late at night, and I am stumbling drunk. It is not a real drunkenness, because in the way of dreams I am lucid and observing as though trapped in my unsteady body. I am unable to place my feet correctly, unable to force my eyes to keep focus. I know that I'm drunk, but I cannot remember how. The other night owls give me a wide berth and they turn to watch me sway along. I want to tell them that I'm sober, that I'm fine. But all that comes from my raw lips is garbled speech. I look disheveled. I must have thrown up because the taste is in my mouth and my shirt is soaked and stinking. I feel like a zombie.
+
+I stagger into an alley and have to pause at a dumpster to retch onto the ground. I cannot make sense of what comes out. I don't remember dinner. In the mess, I can see pale, oddly blue specks that look like they might be undissolved pills. It is damp and chilly out but I am sweating with a fever. My throat is raw from stomach acid.
+
+I look up to see a radiant figure, male, nude, hairless, and glowing magenta. His arms taper to neat amputations at the wrists. From where his eyes should be reach the hands of a child. The fingers are clasped across his face in a way that looks like a mask, but also reminds me of my grandmother, sitting on her fading couch, clasping her fingers in her lap while looking out the window. Looking away through windows when she spoke of my father, the soldier and the hero. Her hands touching each other lightly, fingers interlacing. She spoke in reverent tones, "He was such a good boy. My little man. You look just like him." This figure hovers a foot in the air with arms out like Jesus, and he waits for me to swallow my bile.
+
+It is perfectly natural, serene even. That ruddy light burns away the stink and the drunkenness. I can stand up straight, though it makes me ache all over, and even that ache begins to fade the longer I look at him. The city fades away around us both, and he says to me, in strange choral tones, "You are besieged." The hands unfurl from each other, both pointing to me as clearly as any gaze. His breath brings more light, and it streams into me, entering my senses intimately. I nod and lick my cracked, raw lips.
+
+"I think I am sick. Can you help me?" My voice trembles. He is beautiful and sincere, and I feel no need to resist. His hands come together touching his thumbs to his brow in a gesture of prayer. He bows his head.
+
+"I am simply the message. Will you hear it?" Closer he drifts to me, leaning down to kiss, and those hands that are eyes reach for my face with tingling caresses. I open my lips to draw him in, and our teeth clash like sparks and embers. He is warm to the touch, and the embrace feels like a longing fulfilled, like prophecy on the eve of revelation, like coming home from a cruel sea.
+
+I cannot find the words - and when it is over, he pulls away from me with one hand reaching down to cover his mouth, the other reaching up to clasp his bare brow in spread fingers. Those hands like eyes. My heart pounds; I ache for more of this strange connection, and I reach out and through him.
+
+But he is already receding as a dream within a dream, tilting his head as though in pity. I am left alone in the alley, which even now becomes here, alone in my bed. I awake to sirens.
+
+## Alice
+
+ALICE
+
+"Alice. Alice, wake up," he touched her shoulder, glancing across the car. It was raining, he needed both hands on the wheel. She woke up to the rippling blur of distant fields; water on the side window. Her breath spread and receded upon the glass. She had fallen asleep while they were still in the city and now, later, she saw dreamy green fields in the distance. Cold, gray spring rain. She sat up and ached in a dozen places. Her neck hurt and she winced, "Bleh."
+
+"You should've let your seat back and just slept that way. Laying back." He had to watch the road, so Alice had the distinct perspective of observing him talk without being spoken to directly. His face was tense with worry and concentration. It was raining rather hard, and this stretch of road wasn't very well marked. He couldn't see her watching him, and so he continued, "I knew you were going to wake up sore, slumped over like that." She saw there was grey above his ear. He wrung his fingers on the wheel and kept checking the rearview mirror.
+
+"I'm fine. Where are we?"
+
+"I don't know. I need you to check the map. I think - I think we missed the exit a couple miles back, and I don't see any off-ramp; there's nowhere to turn around." He glanced at her and frowned at her groggy state. She wasn't with him in this moment, she was still waking up or something. He was the one driving and the one who knew how lost they could very well be.
+
+"Are you okay?" He asked, and she heard in it the testy accusation. The implication that she wasn't okay, that somehow she was failing him. She was supposed to be the navigator and now they were lost. She heard his frustrated annoyance spilling onto her. He was embarassed and taking out on her.
+
+"I'm fine. Let me find it."
+
+"What? The map? It's right there, between your feet. You're stepping on it."
+
+"I see it. I've got it." She rustled it open, a sprawling tangle on paper. It seemed entirely ridiculous and unwieldly. She turned it a couple times to get her bearings. She heard him sighing and the creak of his seatbelt. He was irritated, and now she was too.
+
+"Okay, so where are we?" She asked, peering up the main lines, using her finger to trace over their route.
+
+"I don't know. That's the thing, we missed the exit and I'm not sure how to get us back." The edge in his voice made her jaw tighten. She wanted out of the car, to walk and stretch and breathe the cool damp air.
+
+"Well what do you want me to do? I was asleep. You missed the turn." The fight was inevitable and monstrous, clawed and already in the air, mid-pounce.
+
+He rolled his shoulders and she could feel him winding up something sharp to say, something that would hurt. Guilt and doubt began to seep in around the edges; she was the navigator, after all. She did fall asleep, after all. And if she was tired, it kind of was her fault. They had sex last night. In a motel. It was awkward and protracted and he seemed such a little boy then, eager to please and getting nowhere. Perhaps she should've just faked something so they could've gotten to sleep. She couldn't remember the last time she really enjoyed their lovemaking. It had become a confessional and a series of reflexes; habit. And she could feel this now carving the air between them with claws out and fangs showing. She looked at him bristling within himself and wondered if he could sense it too, the inevitable stupidity. She wondered when she stopped loving him, and when she would admit it to him without meaning to, letting it slip by accident.
+
+He glanced over to her again, about to speak. This is what they were going to fight about this time: being lost in the rain. And in the space between the flip and flap of the windshield wipers she saw two things with clarity: she saw his mouth forming the words, and through the crystal pane of the glass already blotting over with fresh drops, she saw the massive rolling wave of metal leaping across the divider. The 16-wheeler sailed through the air with an achingly beautiful grace, and the driver inside stared in stupid, unfocused shock. Completely out of control. There was no time for anything more; the surging tide of it blocked out the gray sky, sweeping everything away.
