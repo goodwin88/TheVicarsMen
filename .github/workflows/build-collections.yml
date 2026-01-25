@@ -25,7 +25,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add **/00-ALL-*.md || true
+          # Add both root-level and nested 00-ALL files
+          git add 00-ALL-*.md **/00-ALL-*.md || true
           if git diff --cached --quiet; then
             echo "changes=false" >> "$GITHUB_OUTPUT"
           else
@@ -36,5 +37,7 @@ jobs:
         if: steps.changes.outputs.changes == 'true'
         uses: EndBug/add-and-commit@v9
         with:
-          add: "**/00-ALL-*.md"
+          add: |
+            00-ALL-*.md
+            **/00-ALL-*.md
           message: "Auto-build compiled collections and mega file"
