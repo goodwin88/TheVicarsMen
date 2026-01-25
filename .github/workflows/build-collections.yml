@@ -1,5 +1,8 @@
 name: Build All Collections
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
