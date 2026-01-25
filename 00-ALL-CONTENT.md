@@ -954,3 +954,28 @@ She held out two small hands, cupping four dusky round berries, dark as navy gem
 "All but yours."
 
 "Yes," she smiled, and it was again all right. We filled our pockets with more berries and wandered down into the valley to play among the old cannons and ruined concrete bunkers. When the sun did finally burn through, it found us perched upon a crumbling dome, watching the fading storm clouds on the horizon. We strained our ears in serious, devotional silence, and sought to hear - for as long as we could - the low and fading thunder.
+## Circle of life
+
+CIRCLE OF LIFE
+
+tommyguns in violin cases.
+
+violins in golf bags.
+
+putters in coffins.
+
+corpses in jelly jars.
+
+marmalade in jewelry boxes.
+
+plastic ballerinas in tubes of paint.
+
+*American Gothic* in prize-winning chili.
+
+cigarette ashes in honeycomb cells.
+
+bee larvae in utero.
+
+babies in Churchill's fat flabby hands.
+
+tommyguns in violin cases.
