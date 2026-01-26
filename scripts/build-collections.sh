@@ -36,8 +36,9 @@ for DIR_PATH in "${DIRS[@]}"; do
     printf '%s\n\n' "> ⚠️ This file is auto-generated. Edit the individual files instead."
   } > "$OUT"
 
-  # Gather files matching NN-*.md inside this collection dir (sorted)
-  mapfile -t FILES < <(printf '%s\n' "$DIR"/[0-9][0-9]-*.md | sort)
+  # Gather files matching NN-*.md or NN.x-*.md inside this collection dir (sorted)
+  # NOTE: changed glob to [0-9][0-9]*-*.md to include subsection filenames like 08.1-*.md
+  mapfile -t FILES < <(printf '%s\n' "$DIR"/[0-9][0-9]*-*.md | sort)
 
   for FILE in "${FILES[@]:-}"; do
     # Skip if glob produced pattern (no match) or file doesn't exist
