@@ -979,6 +979,92 @@ bee larvae in utero.
 babies in Churchill's fat flabby hands.
 
 tommyguns in violin cases.
+## Its a fact
+
+IT'S A FACT... EVERY 30 SECONDS IN THIS COUNTRY A CHI
+
+salvador dali came home and said "FISH! my key won't unlock my door"
+and i said, that's no key, that's a penis, put it in your mouth and smoke it good boy
+his house was on fire burning elephants on stilts every
+30 seconds in this country a chiTYGER TYGER BURNING BRIGHT was not the original
+way that particular poem went
+maneaters in the bush on fire and every 30 seconds in this country a chi
+it's a fact, welcome to sorbitol town, sunny and planned and softened in
+the floridian sun, tiger striped pjs to hide under the covers in
+blend right in but no every 30 seconds in this cou
+glowing in the dark room like a sweating blushing bride struggling for
+balance on something like stiltslits
+every 30 setipping over one after the other after the other racing
+around the room like a snake made of endlessly toppling dominoes
+hiding in tiger stripes under the covers and peeking at the door to the
+hall
+every 3fearful symmetry
+## Nobody hearts a fucking wet blanket
+
+NOBODY [HEART]'S A FUCKING WET BLANKET
+
+c'mon baby almost almos
+t there just a little m
+ore tell me you like it
+many many many many man
+y... i thought i was go
+ing to have to go it al
+one but it just took a
+little waiting for it y
+ou to come through as y
+ou always do, catching
+up quickly. many pushpi
+ns many thumbtacks many
+pinpricks many prick pi
+ns and needles is how i
+t feels when your limbs
+start to go numb from h
+olding positing waiting
+many many many many man
+y... soon all over and
+then the collapse and t
+he tumbling and the tan
+gling                it
+really was pretty good
+and we can practice 
+that as many times
+as it takes to
+produc
+e
+## Have no fear
+
+HAVE NO FEAR
+
+A bulb of garlic near the cutting board and a few cloves resting next to it like a squat loving mother with her babes. That's what he thought looking at the small tableau.
+
+"So," he said by way of breaking the silence, "Mama called." Sarah sat at the table while he worked dicing peppers. "While you were asleep."
+
+She exhaled in the direction of the open window and only blinked in reply.
+
+She pulled her foot onto the chair, hanging her toes off the edge, her heel in her crotch. She always smoked in his kitchen because they were siblings and she could get away with it.
+
+He used the flat of the blade to scoop up the cuttings into a bowl and then he started on the onion. The scent was sharp and sudden. The view from the window overlooked the plaza, where youths on ladders hung strings of lanterns and garlands of small piñatas from poles for later that night. Clustered in the shade of the cork tree sat town elders, fanning themselves and slouched. They were jovial, he could tell that much, though at this distance, only tone of voice carried.
+
+"She called and asked about you again, wanted to know how long you were going to stay here." Sarah shrugged and carefully tapped her ashes. She looked at him and he watched his fingers, the garlic nearby like small sugar skulls.
+
+"She said it wasn't right for you to be away like this. Away from your husband." Sarah brushed her hair behind her ear.
+
+"And what did you say?"
+
+"What could I say? 'I don't know', I told her. I said you were still figuring things out. I said you were asleep."
+
+Sarah furrowed her brow, assessing this carefully. She nodded and pulled up her other foot, now sitting crosslegged in the chair. She crushed out her cigarette and then dug both hands into her thick hair and scratched her scalp vigorously.
+
+"Thanks," she mumbled, sighing out a tired grunt. She flopped her hands down into her lap and sniffed.
+
+"What am I going to do? I have to go back for my clothes if nothing else." He nodded and listened; he cut the onion into futher smaller pieces the way he knew she liked it.
+## Game over
+
+GAME OVER
+
+No fourth wanted to play, so the game stops here.
+
+Not sure what the buzz was about? X marks the spot.
 ## Fiction by the numbers by the sea
 
 FICTION BY THE NUMBERS, BY THE SEA
