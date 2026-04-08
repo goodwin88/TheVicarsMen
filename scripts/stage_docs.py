@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 """Stage source markdown files into docs/ for MkDocs build.
 
+Requires Python 3.9+.
+
 This script copies individual story files from each category folder into a
 docs/ staging directory, skipping the compiled 00-ALL-*.md files.  It also
 generates a category index page (index.md) for each section and produces a
 .pages file consumed by mkdocs-awesome-pages-plugin to set nice section
 titles.
 """
+
+from __future__ import annotations
 
 import re
 import shutil
