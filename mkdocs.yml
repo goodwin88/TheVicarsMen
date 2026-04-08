@@ -20,6 +20,9 @@ theme:
     - search.suggest
     - search.highlight
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 plugins:
   - search
   - awesome-pages

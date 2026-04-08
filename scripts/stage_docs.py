@@ -126,6 +126,14 @@ def main() -> None:
 
         print(f"  {display_name}: staged {len(staged)} stories → docs/{cat_slug}/")
 
+    # Copy static assets (e.g. CSS, images) from repo-root assets/ into docs/.
+    # This is necessary because stage_docs.py wipes docs/ at the start, so any
+    # static files must be re-copied here rather than stored directly in docs/.
+    assets_src = REPO_ROOT / "assets"
+    if assets_src.is_dir():
+        shutil.copytree(assets_src, DOCS_DIR / "assets", dirs_exist_ok=True)
+        print("  Copied assets/ → docs/assets/")
+
     print("Done. docs/ is ready for MkDocs.")
 
 
