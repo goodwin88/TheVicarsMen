@@ -5,21 +5,21 @@
 
 ## The maiden and the wolf
 
-THE MAIDEN AND THE WOLF
+\#The Maiden and The Wolf
 
-1
+\##1
 
 "Your birthday will be soon, in a few days time - aren't you excited?"
 
-"Yes, Mama," she said blushing, scratching behind her ear. She snapped green beans into her bowl. The two them in their chairs with broad bowls in their laps, chairs her father had made with his own hands. He was away fishing. She knew he had taken the long way to the creek. As he passed neighboring homes, he would invite all he met to come for her birthday. Such celebrations were hardly secret and she squirmed in her seat, tapping her feet in happy anticipation.
+"Yes, Mama," she said blushing, scratching behind her ear. She snapped green beans into her bowl. The two them in their chairs with broad bowls in their laps, chairs her father had made with his own hands. He was away fishing. She knew he had taken the long way to the creek. As he passed neighbouring homes, he would invite all he met to come for her birthday. Such celebrations were hardly secret and she squirmed in her seat, tapping her feet in happy anticipation.
 
 Her mother glanced over, "I can see that, and you know we're going to be busy around here getting things ready. It would be a good time for you to finally visit your grandmother, and to stay with her until then."
 
-The young girl paused in surprise. Her mother nodded, watching her own nimble fingers. "You're a young woman now; you can travel the woods alone. Besides, she would want to see you before your big day and she won't be able to make the trip here herself. It would be best for you go." She said this last with a tone of finality.
+The young girl paused in surprise. Her mother nodded, watching her own nimble fingers. "You're a young woman now; you can travel the woods alone. Besides, she would want to see you before your big day and she won't be able to make the trip here herself. It would be best for you to go." She said this last with a tone of finality.
 
 "Your brother will manage your chores."
 
-2
+\##2
 
 She packed a napkin with bits of hard food and folded it into her sleeves. She took her father's walking stick and her mother's greatcloak. Her brother gave her his small collection of found flint arrowheads. She ruffled his tangled hair and kissed them all before leaving. Her mother pressed a folded letter into her hand, "Give this to her when you arrive. Stop for nothing." She held her gaze and peered into her daughter's open young face, fixing the image to memory.
 
@@ -27,11 +27,11 @@ Her father then braced her shoulders and smiled behind his shaggy moustache. He 
 
 Her brother tugged at her sleeve and hugged her. "Please, hurry back. Mama said we can't have any of the cakes until you do." She whispered to him, "I'll share mine with you for doing my work."
 
-Her family stood apart from her and waved. She looked back once before leaving the dusty yard at the edge of the forest. Her family stood small against a small house. A goat, some hens, an ax in the stump and a neat pile of split wood. A garden. Gathering the thick tatters about her, she entered the wooded briars.
+Her family stood apart from her and waved. She looked back once before leaving the dusty yard at the edge of the forest. Her family stood small against a small house. A goat, some hens, an axe in the stump and a neat pile of split wood. A garden. Gathering the thick tatters about her, she entered the wooded briars.
 
-3
+\##3
 
-And was immediately swallowed up by the gloom. Above, the rustling canopy blocked out the sun. All around her, the gnarled trunks crowded so that she saw nothing but shifting, mossy gray bark. Small creatures darted ahead of her. Shapeless birds brushed by her ears. She pulled up her hood and kept her eyes to the path. It wasn't much of one, overgrown and patchy. She would follow the bare trail for a few paces and then look around to see where it picked up again. A few times she felt as though she had strayed, but then beyond the next rotting log she would find the thread again.
+And was immediately swallowed up by the gloom. Above, the rustling canopy blocked out the sun. All around her, the gnarled trunks crowded so that she saw nothing but shifting, mossy grey bark. Small creatures darted ahead of her. Shapeless birds brushed by her ears. She pulled up her hood and kept her eyes to the path. It wasn't much of one, overgrown and patchy. She would follow the bare trail for a few paces and then look around to see where it picked up again. A few times she felt as though she had strayed, but then beyond the next rotting log she would find the thread again.
 
 As she picked her way through the brambles, her long cloak kept catching on thorns until she finally tore the low hem away into strips. She tied these around her hands and fingers to protect them. Still she bled from a hundred scratches. But she was away from home for the first time and so this was unimportant. She slipped on slick leaves and into sinkholes until she learned to use the walking stick to feel her way along.
 
@@ -73,7 +73,7 @@ The Wolf sprawled onto his back and bared his throat, belly, and loins. Moths an
 
 He called after her, "Are you going home, then?"
 
-She stopped and looked around, it did seem familiar, but it was so hard to tell now. She scowled and returned, passing him without a glance. She walked in the other direction. The wolf sprawled on his back and grunted as she stomped by. His pawed at himself and scratched burrowing moles from his belly.
+She stopped and looked around, it did seem familiar, but it was so hard to tell now. She scowled and returned, passing him without a glance. She walked in the other direction. The wolf sprawled on his back and grunted as she stomped by. He pawed at himself and scratched burrowing moles from his belly.
 
 He called after her, "That way's no good either, this isn't the same path you know. You've left it and now all ways look the same."
 
@@ -83,7 +83,7 @@ Behind her the wolf crumbled into a grassy pile as if he had never been, soft mu
 
 "I eat everyone eventually."
 
-4
+\##4
 
 But she seemed to amuse him and he accompanied her through the woods the rest of that night. She did not want this at first, and ignored him, keeping her fear to herself and her eyes on the increasingly useless path. It forked as it had not done before.
 
@@ -107,21 +107,21 @@ She had not said and so he did not know. She learned two things: he was not a go
 
 "So do you."
 
-And he was a wolf then, perhaps as large as an ox and muddy about the paws, but a wolf just the same, and simply so. She was not afraid of him and he was no longer fearful. As she watched, he flinched and scratched at parasites. There were scars about his body and he looked hungry. The trees were blocking sunlight again, not the weak moonlight from before. And then saw that he made a rather pathetic figure. Recalling his initial presence, she wondered if it had been a dream.
+And he was a wolf then, perhaps as large as an ox and muddy about the paws, but a wolf just the same, and simply so. She was not afraid of him and he was no longer fearful. As she watched, he flinched and scratched at parasites. There were scars about his body and he looked hungry. The trees were blocking sunlight again, not the weak moonlight from before. And then she saw that he made a rather pathetic figure. Recalling his initial presence, she wondered if it had been a dream.
 
 "We should go this way."
 
-5
+\##5
 
-They travelled in awkward silence. He avoided the path still, but kept pace with her. He would stop, alert to something she couldn't see and sniffing the air. Then he would dart off straight as an arrow out of sight. She heard growling and savagery that frightened her. Each time he returned, panting and slackjawed, a little more torn about the ears. He once grinned to her with bloody fangs, and said in a weary growl, "It was nothing, let us continue."
+They travelled in awkward silence. He avoided the path still, but kept pace with her. He would stop, alert to something she couldn't see and sniffing the air. Then he would dart off straight as an arrow out of sight. She heard growling and savagery that frightened her. Each time he returned, panting and slack-jawed, a little more torn about the ears. He once grinned to her with bloody fangs, and said in a weary growl, "It was nothing, let us continue."
 
 At intersections and forks in the path, they took turns selecting which way to go. If he knew the way, he did not say it. He respected her intuition each time, and never questioned her decisions. He didn't again ask her where she was going. She didn't ask him how he became so small. They travelled together for many miles that day.
 
 In the end, he was about the size of a large dog. When he ran ahead to confront these things only he could see, he stayed away longer and longer each time. He came back looking more and more ragged. It was her decision to stop for the night when she worried he might not survive another encounter.
 
-They made to rest where the way split again. She had never again left the path and intended to camp on the road itself. He caught a rabbit and devoured it close to her. She ate berries she had picked along the way. She watched him scratch and lick his wounds, her own itching in sympathy. He did not want her berries, and she did not want want his caught game. With a sharp stone and some care she plucked the ticks from his hide and used a stick to clean his ears. She spread her cloak on piled leaves and they slept soundly together, exhausted.
+They made to rest where the way split again. She had never again left the path and intended to camp on the road itself. He caught a rabbit and devoured it close to her. She ate berries she had picked along the way. She watched him scratch and lick his wounds, her own itching in sympathy. He did not want her berries, and she did not want his caught game. With a sharp stone and some care she plucked the ticks from his hide and used a stick to clean his ears. She spread her cloak on piled leaves and they slept soundly together, exhausted.
 
-6
+\##6
 
 In the morning he was gone. She woke to the rustling of feathers and sat up to see two crows on the ground staring at her. One had dried and matted blood on its face.
 
@@ -149,11 +149,11 @@ She hissed spittle through her teeth and held her grip, pinning the bird beneath
 
 The standing bird blinked and worked its beak, flustered and hopping from foot to foot. It hunched over and pointed to a fallen log nearby.
 
-"There! We lef' him there - he's not dead! We were just gon' to scare you 's all. We couldn't kill him if we wanted tew.. Rawk! Get off'm! You've ruined 'im for certain, poor chicky!" The bird flailed its wings in the air, circling and diving around them. The indicated log was close, but off the path. She released the bird beneath her and stood up. Its partner landed and fretted over the mangled body.
+"There! We lef' him there - he's not dead! We were just gon' to scare you 's all. We couldn't kill him if we wanted tew\.. Rawk! Get off'm! You've ruined 'im for certain, poor chicky!" The bird flailed its wings in the air, circling and diving around them. The indicated log was close, but off the path. She released the bird beneath her and stood up. Its partner landed and fretted over the mangled body.
 
 She gleamed with sweat, layered with dust and feathers. Her pulse raced with purpose. Without hesitation she fetched up the stick her father had given her. Scooping up the crows under her arms, she plucked out their pinions and tail feathers. She tore a strip from her cloak and tied the large feathers to one end in a bunch as a broom. She took the fallen dagger.
 
-And then she swept out her own path to the log. She cleared the leaves and stones away, and she cut back the brambles. As she went along, the treetops parted and sunlight flooded in through the canopy. There, beyond the rotting timber lay the wolf, bloody and scratched. He was more flayed than whole and already drawing flies. He was not dead, but his wounds were severe. Both eyes were pecked out. The crows could not have done this all themselves. She was looking around for an answer when he spasmed, coughing out blood.
+And then she swept out her own path to the log. She cleared the leaves and stones away, and she cut back the brambles. As she went along, the treetops parted and sunlight flooded in through the canopy. There, beyond the rotting timber lay the wolf, bloody and scratched. He was more flayed than whole and already drawing flies. He was not dead, but his wounds were severe. Both eyes were pecked out. The crows could not have done this all themselves. She looked around for an answer, as he convulsed. He struggled to speak, coughing out blood.
 
 "Is that you? Are you safe? There was another beast. I fought it back, but it left me so weak. The birds ambushed me..."
 
@@ -171,12 +171,11 @@ She pulled her things together and drew her mother's cloak around her shoulders.
 
 "I am going to my Grandmother's. I know now that it's not far from here. We will find food and rest there and I will care for you both until you can fly again. Our account will be settled. This knife," she said, "is now mine."
 
-7
+\##7
 
 She emerged from the forest bearing her broom and her charges, her cloak ragged and torn. In the clearing was a hut, small and shaded beneath an oak. Her grandmother was waiting for her in the doorway, a cat by her ankles. The older woman ambled out to meet her and smiled. She took the birds and tended to them, nodding approval. She took the cloak and showed her how to mend it. She took the broom with an amused laugh and showed her how to fashion one properly. She fed her and listened to her story. She told her her own. In it, there was a wolf as well, grand and powerful and green.
 
 She stayed until the crows were well. It could have been days, it might have been months. But when she finally decided to go home, it was to visit and not to stay. Her brother was older; he was behind the plow now. Her parents were streaked with grey. They finally had their celebration, and her birthday feast was long remembered by those who came. She pulled her mother aside and handed her a letter from her grandmother, written in response to her own sent so long ago. The two women read it together and talked in private as close and knowing friends.
-
 ## The mark of true love
 
 THE MARK OF TRUE LOVE
