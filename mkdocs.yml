@@ -1,0 +1,28 @@
+site_name: The Vicar's Men
+site_url: https://goodwin88.github.io/TheVicarsMen/
+repo_url: https://github.com/goodwin88/TheVicarsMen
+repo_name: goodwin88/TheVicarsMen
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - awesome-pages
+
+docs_dir: docs
+site_dir: site
