@@ -5,19 +5,12 @@
  *   /fairy-tales/   /sketches/   /fables/
  *   /fragments/     /myths/      /short-stories/
  *
- * MkDocs Material renders the active page's nav link with aria-current="page"
- * inside the primary sidebar, which is a sibling of the secondary sidebar
- * within .md-main__inner.  We use CSS :has() to detect the active URL and
- * hide the secondary sidebar (.md-sidebar--secondary) only for story paths.
- *
- * :has() is baseline-supported in Chrome 105+, Firefox 121+, Safari 15.4+.
+ * The companion JS file (assets/javascripts/hide_toc_on_story_pages.js)
+ * adds the class "hide-story-toc" to <body> when the current URL matches one
+ * of the story prefixes.  Using a body class instead of CSS :has() ensures
+ * the rule works in all browsers, including Firefox versions older than 121.
  */
 
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/fairy-tales/"]) .md-sidebar--secondary,
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/sketches/"]) .md-sidebar--secondary,
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/fables/"]) .md-sidebar--secondary,
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/fragments/"]) .md-sidebar--secondary,
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/myths/"]) .md-sidebar--secondary,
-.md-main__inner:has(.md-nav__link[aria-current="page"][href*="/short-stories/"]) .md-sidebar--secondary {
+body.hide-story-toc .md-sidebar--secondary {
   display: none;
 }
