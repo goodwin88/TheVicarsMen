@@ -1,0 +1,5 @@
+# Generated MkDocs staging directory (created by scripts/stage_docs.py)
+docs/
+
+# MkDocs build output
+site/
