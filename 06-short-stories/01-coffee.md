@@ -1,0 +1,15 @@
+Coffee
+
+"I never liked him anyway," John says to me, slouching back in the club chair and pointedly hooking one leg over the other in a way that showed his hip and flank to me. Pleated khakis. Here in the coffee shop, with vaguely indie music all around and plush chairs by the windows, he guestures to me with his espresso, "You could've done so much better." He sips, thin lips slurping. "And it was - what, only two or three months, right?" He sips again, noisily, squinting his eyes at me over the rim of the paper cup with his coffee. Finally he set it down. This place has coffee tables. Long low things; at the far end is a man with a laptop and a stack of well-worn spiral notebooks. We are all modern men in here. Even the woman at the counter is suspect. John had proposed this theory that she was hired for her androgyny and cool manner. No smiles, short hair, flat chest, bold hard glasses, young. In this part of town no one flirted with her. John's theory was that she was hired for those on the cusp.
+
+"To get them in here," he had said that time, "You know, the closet cases." That day he was sitting in the same seat, though perched at the edge, leaning over the coffee table to eat his scone off a small paper plate. He broke off a chunk and pointed with it at her. "It's not like us locals have a choice; it's the only place around. No, she's here to pull in the guys from the suburbs. They read an article in The Week, see a review and finally work up the courage to lie to the wife or themselves of whatever." He paused to smirk and to take another mouthful. "They drive by, see the pride flag out front and us old wolves in the window and almost turn around. But then, she's there - giving the doorway a quick sweep or shutting the cash drawer shut with her belly because her hands are full - and they come on in." He finished this and his scone at the same time, dusting his hands together with a flourish.
+
+"You're full of shit, John. That's what I think," I had said. He looked both amused and pained. "No, hear me out," he continued, "They come in and see her: wife, daughter, girl next door, right? But then she also looks like that one guy they remember from high school, or the paperboy, or-"
+
+"Or maybe she was hired to give you a woman to serve you coffee. Maybe you always want to come here because you can then lord your pendulous male dominion over her narrow hips." And that could have been true. John ordered his purchases as declarations: "The scone, there," or "I'll have an espresso."
+
+I suspected even then that the truth of her boyish charm and sullen manner was something else entirely. However, for consideration - for casual conversation - we were obliged to keep things on the shallow, catty level of mundane and mild genial sadism between friends.
+
+"I 'always' want to come here because I do not consider Dunkin' Donuts to be a viable alternative." That was said with some edge to it and we both let the subject drop.
+
+"We met in January; three months ago."
