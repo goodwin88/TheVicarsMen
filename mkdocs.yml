@@ -23,6 +23,9 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
+extra_javascript:
+  - assets/javascripts/hide_toc_on_story_pages.js
+
 plugins:
   - search
   - awesome-pages
