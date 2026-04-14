@@ -47,7 +47,19 @@ body.hide-story-toc .md-sidebar--secondary {
   display: block;
   overflow: hidden;
   border-radius: 6px;
-  border: 1px solid var(--md-default-fg-color--lighter, rgba(0, 0, 0, 0.12));
+  border: none;
+}
+
+/* Keep accessibility + click affordance */
+.illustration-grid a:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color, #526cfe);
+  outline-offset: 2px;
+}
+
+/* Subtle hover only */
+.illustration-grid a:hover {
+  outline: 1px solid var(--md-default-fg-color--lighter, rgba(0,0,0,0.18));
+  outline-offset: 2px;
 }
 
 .illustration-grid img {
