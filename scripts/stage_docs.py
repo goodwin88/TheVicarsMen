@@ -117,9 +117,22 @@ def strip_illustration_block(content: str) -> str:
     return result.rstrip() + "\n"
 
 
-def build_illustration_block(cat_slug: str, story_slug: str) -> str:
-    """Return the Markdown/HTML illustration block for *story_slug*, or '' if no images."""
-    image_dir = REPO_ROOT / "assets" / "images" / cat_slug / story_slug
+def build_illustration_block(
+    cat_slug: str, story_slug: str, group_slug: str | None = None
+) -> str:
+    """Return the Markdown/HTML illustration block for *story_slug*, or '' if no images.
+
+    When *group_slug* is provided (multipart group part), images are looked up
+    under assets/images/<cat_slug>/<group_slug>/<story_slug>/ and the generated
+    site paths include the extra group segment.
+    """
+    if group_slug:
+        image_dir = REPO_ROOT / "assets" / "images" / cat_slug / group_slug / story_slug
+        site_prefix = f"/TheVicarsMen/assets/images/{cat_slug}/{group_slug}/{story_slug}"
+    else:
+        image_dir = REPO_ROOT / "assets" / "images" / cat_slug / story_slug
+        site_prefix = f"/TheVicarsMen/assets/images/{cat_slug}/{story_slug}"
+
     if not image_dir.is_dir():
         return ""
 
@@ -137,7 +150,7 @@ def build_illustration_block(cat_slug: str, story_slug: str) -> str:
         '<div class="illustration-grid">\n',
     ]
     for img in images:
-        site_path = f"/TheVicarsMen/assets/images/{cat_slug}/{story_slug}/{img.name}"
+        site_path = f"{site_prefix}/{img.name}"
         alt = f"Illustration {img.stem}"
         lines.append(
             f'  <a href="{site_path}" target="_blank" rel="noopener">'
@@ -244,7 +257,9 @@ def main() -> None:
                 content = ensure_heading(part_title, content)
                 content = strip_illustration_block(content)
 
-                illus_block = build_illustration_block(cat_slug, part_stem)
+                illus_block = build_illustration_block(
+                    cat_slug, part_stem, group_slug=group_slug
+                )
                 if illus_block:
                     content = content.rstrip() + "\n" + illus_block
 
