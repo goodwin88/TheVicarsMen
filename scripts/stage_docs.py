@@ -261,8 +261,8 @@ def main() -> None:
             )
 
             # Generate group .pages (controls nav title and part ordering).
-            group_nav_items = "".join(
-                f"  - {pf}\n" for _, pf in [("", "index.md")] + staged_parts
+            group_nav_items = "  - Overview: index.md\n" + "".join(
+                f"  - {pf}\n" for _, pf in staged_parts
             )
             (group_out_dir / ".pages").write_text(
                 f"title: {group_display}\nnav:\n{group_nav_items}",
