@@ -174,4 +174,4 @@ She stayed until the crows were well. It could have been days, it might have bee
 
 ## Illustrations
 
-![Illustration 01]({{ site.baseurl }}/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg)
+![Illustration 01](/TheVicarsMen/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg)
