@@ -183,6 +183,12 @@ She pulled her things together and drew her mother's cloak around her shoulders.
 She emerged from the forest bearing her broom and her charges, her cloak ragged and torn. In the clearing was a hut, small and shaded beneath an oak. Her grandmother was waiting for her in the doorway, a cat by her ankles. The older woman ambled out to meet her and smiled. She took the birds and tended to them, nodding approval. She took the cloak and showed her how to mend it. She took the broom with an amused laugh and showed her how to fashion one properly. She fed her and listened to her story. She told her her own. In it, there was a wolf as well, grand and powerful and green.
 
 She stayed until the crows were well. It could have been days, it might have been months. But when she finally decided to go home, it was to visit and not to stay. Her brother was older; he was behind the plow now. Her parents were streaked with grey. They finally had their celebration, and her birthday feast was long remembered by those who came. She pulled her mother aside and handed her a letter from her grandmother, written in response to her own sent so long ago. The two women read it together and talked in private as close and knowing friends.
+
+---
+
+## Illustrations
+
+![Illustration 01]({{ site.baseurl }}/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg)
 ## The mark of true love
 
 THE MARK OF TRUE LOVE
