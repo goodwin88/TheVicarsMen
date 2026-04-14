@@ -16,6 +16,13 @@ import re
 import shutil
 from pathlib import Path
 
+# Image extensions supported for illustration grids (checked case-insensitively).
+_IMAGE_EXTENSIONS = frozenset({".jpg", ".jpeg", ".png", ".webp", ".gif"})
+
+# Markers used to wrap the auto-generated illustration block.
+_AUTO_START = "<!-- AUTO-ILLUSTRATIONS:START -->"
+_AUTO_END = "<!-- AUTO-ILLUSTRATIONS:END -->"
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = REPO_ROOT / "docs"
 
@@ -61,6 +68,81 @@ def ensure_heading(title: str, content: str) -> str:
         if line.strip().startswith("#"):
             return content  # already has a heading
     return f"# {title}\n\n{content}"
+
+
+def _natural_key(path: Path) -> list[int | str]:
+    """Return a sort key that orders numeric stems naturally (1 < 2 < 10)."""
+    parts: list[int | str] = []
+    for segment in re.split(r"(\d+)", path.stem):
+        parts.append(int(segment) if segment.isdigit() else segment)
+    return parts
+
+
+def strip_illustration_block(content: str) -> str:
+    """Remove an existing illustration block from staged content.
+
+    Handles two forms:
+    1. An AUTO-ILLUSTRATIONS marker block (and the ``---`` rule + ``## Illustrations``
+       heading that precede it).
+    2. A manually placed trailing ``## Illustrations`` section containing an
+       ``illustration-grid`` div (no markers), so the auto-injection can replace it.
+    """
+    if _AUTO_START in content:
+        # Remove the full marked block including the preceding --- / ## Illustrations.
+        pattern = re.compile(
+            r"\n?---\s*\n\s*## Illustrations\s*\n\s*" + re.escape(_AUTO_START) + r".*?" + re.escape(_AUTO_END) + r"\n?",
+            re.DOTALL,
+        )
+        result = pattern.sub("", content)
+        if result == content:
+            # Fallback: just strip between markers.
+            fallback = re.compile(
+                re.escape(_AUTO_START) + r".*?" + re.escape(_AUTO_END) + r"\n?",
+                re.DOTALL,
+            )
+            result = fallback.sub("", content)
+        return result.rstrip() + "\n"
+
+    # Strip a trailing manual ## Illustrations section that contains illustration-grid.
+    pattern = re.compile(
+        r"\n?---\s*\n\s*## Illustrations\s*\n.*?illustration-grid.*",
+        re.DOTALL,
+    )
+    result = pattern.sub("", content)
+    return result.rstrip() + "\n"
+
+
+def build_illustration_block(cat_slug: str, story_slug: str) -> str:
+    """Return the Markdown/HTML illustration block for *story_slug*, or '' if no images."""
+    image_dir = REPO_ROOT / "assets" / "images" / cat_slug / story_slug
+    if not image_dir.is_dir():
+        return ""
+
+    images = sorted(
+        (f for f in image_dir.iterdir() if f.suffix.lower() in _IMAGE_EXTENSIONS),
+        key=_natural_key,
+    )
+    if not images:
+        return ""
+
+    lines: list[str] = [
+        "\n---\n",
+        "## Illustrations\n",
+        f"{_AUTO_START}\n",
+        '<div class="illustration-grid">\n',
+    ]
+    for img in images:
+        site_path = f"/TheVicarsMen/assets/images/{cat_slug}/{story_slug}/{img.name}"
+        alt = f"Illustration {img.stem}"
+        lines.append(
+            f'  <a href="{site_path}" target="_blank" rel="noopener">'
+            f'<img src="{site_path}" alt="{alt}"></a>\n'
+        )
+    lines += [
+        "</div>\n",
+        f"{_AUTO_END}\n",
+    ]
+    return "".join(lines)
 
 
 def main() -> None:
@@ -113,6 +195,11 @@ def main() -> None:
             title = title_from_stem(stem)
             content = source_file.read_text(encoding="utf-8")
             content = ensure_heading(title, content)
+            content = strip_illustration_block(content)
+
+            illus_block = build_illustration_block(cat_slug, stem)
+            if illus_block:
+                content = content.rstrip() + "\n" + illus_block
 
             staged_path.write_text(content, encoding="utf-8")
             staged.append((title, staged_filename))
