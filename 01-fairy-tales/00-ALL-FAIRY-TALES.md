@@ -181,7 +181,13 @@ She stayed until the crows were well. It could have been days, it might have bee
 
 ## Illustrations
 
-![Illustration 01](/TheVicarsMen/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg)
+<div class="illustration-grid">
+  <a href="/TheVicarsMen/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg"
+     target="_blank" rel="noopener">
+    <img src="/TheVicarsMen/assets/images/fairy-tales/the-maiden-and-the-wolf/01.jpg"
+         alt="The maiden travelling through the dark forest">
+  </a>
+</div>
 ## The mark of true love
 
 THE MARK OF TRUE LOVE
