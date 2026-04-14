@@ -271,9 +271,11 @@ def main() -> None:
             for part_title, part_file in staged_parts:
                 part_slug = Path(part_file).stem
                 group_index_lines.append(f"- [{part_title}]({part_slug}.md)\n")
-            (group_out_dir / "index.md").write_text(
-                "".join(group_index_lines), encoding="utf-8"
-            )
+            group_index_content = strip_illustration_block("".join(group_index_lines))
+            group_illus_block = build_illustration_block(cat_slug, group_slug)
+            if group_illus_block:
+                group_index_content = group_index_content.rstrip() + "\n" + group_illus_block
+            (group_out_dir / "index.md").write_text(group_index_content, encoding="utf-8")
 
             # Generate group .pages (controls nav title and part ordering).
             group_nav_items = "  - Overview: index.md\n" + "".join(
