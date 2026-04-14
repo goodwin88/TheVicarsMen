@@ -286,7 +286,7 @@ def main() -> None:
 
         # Generate category .pages with ordered nav list so awesome-pages
         # preserves numeric sequence instead of falling back to alphabetical.
-        nav_items = "  - index.md\n"
+        nav_items = "  - Overview: index.md\n"
         for _, story_file in staged:
             nav_items += f"  - {story_file}\n"
         for _, group_slug in staged_groups:
